@@ -1,6 +1,6 @@
 # Liter Alura - Catálogo de Livros
 
-Contrui meu próprio catálogo de livros em uma aplicação Java/Spring Boot como tarefa do desafio Alura e Oracle ONE.  Nesse desafio pude realizar solicitações a uma API de livros, manipular arquivos JSON, e armazenar tudo no banco de dados Postgres. Esta aplicação permite realizar busca de livros diretamente da web, e realizar outras consultas no banco de dados como: listar livros registrados, listar autores, e muitas outras funcionalidades.
+Construi meu próprio catálogo de livros em uma aplicação Java/Spring Boot como tarefa do desafio Alura e Oracle ONE.  Nesse desafio pude realizar solicitações a uma API de livros, manipular arquivos JSON, e armazenar tudo no banco de dados Postgres. Esta aplicação permite realizar busca de livros diretamente da web, e realizar outras consultas no banco de dados como: listar livros registrados, listar autores, e muitas outras funcionalidades.
 
 > Status do Projeto: :heavy_check_mark: (concluído)
 
