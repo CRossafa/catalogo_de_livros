@@ -18,19 +18,13 @@ Construi meu próprio catálogo de livros em uma aplicação Java/Spring Boot co
 ## Tecnologias Utilizadas
 
 - **Java 17** 
-- **Spring Boot 2.7**
+- **Spring Boot 3.3.1**
 - **Hibernate**
 - **PostgreSQL**
 - **Gutendex API**
 - **Maven**
 
 ## Configuração do Projeto
-
-### Pré-requisitos
-
-- Java 17 ou superior
-- Maven
-- PostgreSQL
 
 ### Instalação
 
